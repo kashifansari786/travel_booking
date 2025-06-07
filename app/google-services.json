@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242534750817",
+    "project_id": "travelbooking-14c48",
+    "storage_bucket": "travelbooking-14c48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242534750817:android:715dae5bec0d680c8ae820",
+        "android_client_info": {
+          "package_name": "com.kashif.travel_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsNOTC-hxeYnmK0oMC6gwXIy1cM_pt2hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
