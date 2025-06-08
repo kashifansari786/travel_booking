@@ -4,7 +4,8 @@ A modern travel booking app built with Jetpack Compose and Kotlin, following MVV
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/screenshot_1.png)
+<img src="screenshots/screenshot_1.png" alt="Home Screen" width="300"/>
+
 ![Boarding Screen](screenshots/screenshot_2.png)
 ![Seat Conformation Screen](screenshots/screenshot_3.png)
 ![Ticket Screen](screenshots/screenshot_4.png)
